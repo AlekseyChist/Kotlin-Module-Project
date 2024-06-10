@@ -1,3 +1,5 @@
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    val logic = Logic()
+    logic.start()
 }
