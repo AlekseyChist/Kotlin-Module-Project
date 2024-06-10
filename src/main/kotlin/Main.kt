@@ -1,5 +1,5 @@
 
-fun main(args: Array<String>) {
+fun main() {
     val logic = Logic()
     logic.start()
 }
